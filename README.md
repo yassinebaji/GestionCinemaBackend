@@ -1,1 +1,1 @@
-# GestionCinemaBackend
+# GestionCinemaBackend using Spring framework
